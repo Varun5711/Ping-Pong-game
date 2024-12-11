@@ -1,7 +1,7 @@
 # Ping Pong Game
 This is a **mini project** created while practicing JavaScript. The project implements a simple version of the classic Ping Pong game with a focus on functionality rather than design. The user can control the paddle using the arrow keys on their PC to play against an AI opponent.
 
-![Ping Pong Game](screenshot.png) <!-- Replace with actual screenshot if available -->
+![Ping Pong Game](screenshot.png)
 
 ## Features
 - Simple yet functional Ping Pong game mechanics.
