@@ -305,12 +305,3 @@ var Game = {
 
 var Pong = Object.assign({}, Game);
 Pong.initialize();
-const quote = "Ping Pong Game";
-let index = 0;
-function typeEffect() {
-    if (index < quote.length) {
-        document.getElementById("quote").innerHTML += quote.charAt(index);
-        index++;
-        setTimeout(typeEffect, 50);
-    }
-}
